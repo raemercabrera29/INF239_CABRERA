@@ -7,7 +7,7 @@ function App() {
         <h1>John Raemer Cabrera</h1>
         <p>BS Information Technology Student</p>
         <p>Aspiring Software Developer | Web Developer | Tech Enthusiast</p>
-        <img src="https://github.com/raemercabrera29/prj2/blob/main/MONE.png?raw=true" alt="Description of the image"></img>
+
       </header>
 
       <section>
